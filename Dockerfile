@@ -1,5 +1,4 @@
 FROM ubuntu:18.04
-MAINTAINER some-peroxide <jbd3yie8qd9kg3@gmail.com>
 
 #이거 않하면 지역 선택 뭐시기 뜸
 ENV DEBIAN_FRONTEND=noninteractive
